@@ -1,0 +1,8 @@
+rsa
+thrift==0.11.0
+requests
+bs4
+gtts
+pytz
+humanfriendly
+googletrans
